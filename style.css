@@ -1,0 +1,161 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    
+}
+.top-banner{
+background-size:cover;
+background-image:url(images/donation1.jpg);
+background-repeat:no-repeat;
+width:100%;
+
+padding:30px;
+
+}
+.donate-people{
+
+    margin-bottom:50px;
+}
+h1{
+text-align:center;
+color:white;
+font-size:40px;
+font-weight:800;
+padding-right:30px;
+
+}
+p{
+text-align:center;
+width:50%;
+margin:auto;
+color:white;
+font-weight:600;
+}
+.link-button{
+
+    text-decoration:none;
+    background-image:linear-gradient(rgb(89, 99, 89), rgb(153, 153, 187));
+    padding:5px 10px;
+    border-radius:3px;
+    color:white;
+    font-weight:600px;
+    width:14%;
+    margin:auto;
+    display:block;
+    text-align:center;
+    border-radius:4px;
+
+}
+.price-section{
+    margin:50px;
+}
+.color{
+
+  color:black; 
+  font-weight:600px; 
+}
+.donate-today h1{
+color:black;
+font-wight:800px;
+
+}
+
+
+ul{
+display:flex;
+
+}
+.money{
+text-align:center;
+
+}
+button{
+
+    margin-top:20px;
+    padding:10px;
+    background-image:linear-gradient(rgb(129, 112, 112),rgb(199, 161, 161));
+    border:none;
+
+   
+   
+}
+.tk{
+border:2px solid red;
+
+}
+.amount{
+margin-top:20px;
+   color:gray; 
+   font-size:10px;
+}
+#plan{
+color:black;
+
+}
+.donat-part p{
+
+    color:black;
+}
+.container{
+display:flex;
+
+}
+.food{
+background-color:gray;
+margin:2%;
+
+
+}
+.shelter{
+background-color:antiquewhite;
+margin:2%;
+}
+.medicine{
+background-color:aqua;
+margin:2%;
+}
+
+.container h1{
+
+    font-size:15px;
+color:black;
+text-align:left;
+margin:0;
+padding:2px 10px;
+}
+.container p{
+color:black;
+font-size:10px;
+text-align:left;
+margin:0;
+padding:2px 10px;
+
+}
+.container img{
+
+    width:20%;
+    padding:20px;
+}
+
+footer{
+background-color:black;
+margin-top:20px;
+
+}
+footer p{
+    color:white;
+font-size:7px;
+font-weight:200px;
+padding-bottom:4px;
+
+}
+footer h3{
+
+    color:white;
+    text-align:center;
+    margin:0px;
+    padding:10px 20px;
+    font-weight:500px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:10px;
+}
