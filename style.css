@@ -159,3 +159,34 @@ footer h3{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:10px;
 }
+.my-update h1{
+
+    color:black;
+}
+.my-update p{
+
+    color:black;
+}
+.update{
+
+    text-align:center;
+    background-color:rgb(150, 123, 123);
+    width:50%;
+    margin:0 auto;
+    padding:20px 30px;
+}
+#email{
+background-color:azure;
+padding:2px 5px;
+border:none;
+
+}
+#subscribe{
+background-color:rgb(129, 62, 62);
+border:none;
+padding:2px 10px;
+color:white;
+margin-left:-3px;
+
+
+}
